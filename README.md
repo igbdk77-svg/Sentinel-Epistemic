@@ -14,3 +14,10 @@ sentinel = AdaptiveEpistemicSentinel(sensitivity=0.15)
 
 # Protect your model output
 safe_output = sentinel(latent_state)
+
+
+---
+`Project`: Cognitive-Execution-Kernel 
+`Scope`: Epistemic Security & Gradient Manifold Optimization
+`Status`: Research Core
+`Key-Innovation`: Recursive Truthfulness Paradox | Gradient-based Latent Stabilization
