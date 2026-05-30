@@ -1,5 +1,5 @@
 import torch
-from sentinel import AdaptiveEpistemicSentinel
+from ..sentinel import AdaptiveEpistemicSentinel
 
 # 1. Sentinel'i başlat
 sentinel = AdaptiveEpistemicSentinel(sensitivity=0.15)
