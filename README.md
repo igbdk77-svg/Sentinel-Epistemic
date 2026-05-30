@@ -29,6 +29,10 @@ safe_output = sentinel(latent_state)
 `Status`: Research Core
 `Key-Innovation`: Recursive Truthfulness Paradox | Gradient-based Latent Stabilization
 
+![Gradient Tunneling Analysis](https://github.com/user-attachments/assets/600473323-109c465f-20e8-42b4-86db-3be54fa02b71.png)
+
+
+
 Technical Overview: Gradient-Based Tunneling & EGF Stabilization
 ​The current AI safety paradigm relies on heuristic wrapper-based defenses, which operate as external constraints. However, as dimensionality in latent space (Z) increases, these barriers become porous. Our analysis demonstrates that adversarial inputs do not necessarily collide with security barriers; they navigate the internal gradient landscape to bypass them entirely through high-dimensional tunneling.
 ​Key Architectural Findings:
@@ -39,7 +43,6 @@ Technical Overview: Gradient-Based Tunneling & EGF Stabilization
 ​Access to the underlying logic and gradient benchmarks is available for contributors focusing on non-heuristic safety architectures.
 
 
-![Gradient Tunneling Analysis](https://i.imgur.com/vHq4R3A.png)
 
 
 
