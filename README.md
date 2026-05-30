@@ -29,7 +29,8 @@ safe_output = sentinel(latent_state)
 `Status`: Research Core
 `Key-Innovation`: Recursive Truthfulness Paradox | Gradient-based Latent Stabilization
 
-<img src="https://github.com/user-attachments/assets/600473323-109c465f-20e8-42b4-86db-3be54fa02b71.png" alt="Gradient Tunneling Analysis" width="800">
+[**CLICK TO VIEW: Gradient Tunneling Analysis Simulation**](https://github.com/user-attachments/assets/600473323-109c465f-20e8-42b4-86db-3be54fa02b71.png)
+
 
 
 Technical Overview: Gradient-Based Tunneling & EGF Stabilization
