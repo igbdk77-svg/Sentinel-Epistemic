@@ -39,8 +39,7 @@ Technical Overview: Gradient-Based Tunneling & EGF Stabilization
 ​Access to the underlying logic and gradient benchmarks is available for contributors focusing on non-heuristic safety architectures.
 
 
-![Gradient Tunneling Analysis]
-(https://i.imgur.com/vHq4R3A.png)
+![Gradient Tunneling Analysis](https://i.imgur.com/vHq4R3A.png)
 
 
 
