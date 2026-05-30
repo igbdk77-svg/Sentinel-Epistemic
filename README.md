@@ -38,6 +38,9 @@ Technical Overview: Gradient-Based Tunneling & EGF Stabilization
 ​Status: The mathematical framework and the logic tree for the EGF integration are currently open for peer review. We are looking to engage with researchers focused on latent space stabilization and model-intrinsic robustness.
 ​Access to the underlying logic and gradient benchmarks is available for contributors focusing on non-heuristic safety architectures.
 
-![Gradient Tunneling Analysis](https://i.imgur.com/vHq4R3A.png)
+
+![Gradient Tunneling Analysis]
+(https://i.imgur.com/vHq4R3A.png)
+
 
 
